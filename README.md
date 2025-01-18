@@ -1,6 +1,8 @@
 # Image ENHANCER 9000
 
-Deep Fry Editor Pro is a powerful photo editor that allows users to upscale their images to production value.
+Deep Fry Editor Pro is a powerful photo editor with 0 value to the user.
+
+![powerful logo](<logo/0118 (3).gif>)
 
 ## Features
 
